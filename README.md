@@ -2,6 +2,7 @@
 
 AIと話した創作や考えごとの途中を、自分のクラウドに残すための開始文を配布する、最小限の静的Webサイトです。
 
+- 配布ページ：[NETAcho — 開始文をコピーする](https://masatoito.github.io/NETAcho/)
 - 紹介記事：[NETAcho（ネタ帳）を、とりあえず使ってみよう。](https://note.com/oitolab/n/n36ef662e6dd3)
 - 開始文：[2026-11-18 v02](downloads/netacho-start-2026-11-18-v02.txt)
 - [更新履歴](CHANGELOG.md)
